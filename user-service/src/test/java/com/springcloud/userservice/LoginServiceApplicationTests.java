@@ -1,4 +1,4 @@
-package com.springcloud.loginservice;
+package com.springcloud.userservice;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
